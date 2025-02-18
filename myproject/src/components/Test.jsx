@@ -1,7 +1,7 @@
-function Test(props){
+function Test(){
     return(
         <div>
-            hello {props.name} and my role is {props.role}
+            <h2>hiiiiiii</h2>
         </div>
     )
 }
